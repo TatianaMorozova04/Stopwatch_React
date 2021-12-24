@@ -1,0 +1,34 @@
+.Stopwatch {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    margin-top: 100px;
+}
+
+.Stopwatch__time {
+    font-size: 64px;
+}
+
+.Stopwatch__buttons {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+}
+
+.Stopwatch__button {
+    width: 120px;
+    height: 40px;
+    border: none;
+    text-transform: uppercase;
+    border-radius: 4px;
+    background-color: #a4d9d9;
+    cursor: pointer;
+    transition: background-color 0.3ms linear;
+}
+
+.Stopwatch__button:hover {
+    background-color: #79cfcf;
+}
+
+.Stopwatch__button:active {
+    background-color: #7daeae;
+}

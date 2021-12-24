@@ -1,0 +1,2 @@
+body{margin:0}.App{text-align:center}.Stopwatch{font-family:Roboto,sans-serif;font-size:20px;margin-top:100px}.Stopwatch__time{font-size:64px}.Stopwatch__buttons{display:flex;gap:12px;justify-content:center}.Stopwatch__button{background-color:#a4d9d9;border:none;border-radius:4px;cursor:pointer;height:40px;text-transform:uppercase;transition:background-color .3ms linear;width:120px}.Stopwatch__button:hover{background-color:#79cfcf}.Stopwatch__button:active{background-color:#7daeae}
+/*# sourceMappingURL=main.756ef324.css.map*/
